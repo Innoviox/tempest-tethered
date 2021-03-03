@@ -1,0 +1,195 @@
+Name,CType,Cost,Strength,Speed,Effect,Class,Kingdom,Rarity,Level
+Aged Duskbringers,Unit,7,4,1,"After surviving damage, randomly give 4 strength to another friendly unit.",Elder ,Neutral,Rare,1
+Agents in Charge,Unit,5,3,3,,Rodent ,Ironclad Union,Common,1
+Amberhides,Unit,5,4,1,"On play, drain 4 strength from a random surrounding poisoned unit.",Toad ,Tribes of Shadowfen,Common,1
+Archdruid Earyn,Unit,7,7,0,"On play, randomly play up to 1 spell card up to Earyn's mana cost from your hand.",Hero ,Neutral,Legendary,1
+Armed Schemers,Unit,7,7,0,"On play, pull enemy units to you. Then deal 3 damage to all bordering enemy units.",Rodent ,Ironclad Union,Epic,1
+Avian Stalkers,Unit,6,5,0,"On death, destroy all units in front with 3 or less strength and spawn 3 strength Ravens on all tiles behind.",Raven ,Neutral,Epic,1
+Azure Hatcher,Unit,4,1,2,"On death, spawn 1 strength Toads on 2 random surrounding tiles.",Toad ,Tribes of Shadowfen,Rare,1
+Beards of Crowglyph,Unit,6,6,0,"After surviving damage, spawn an Elder with strength equal to this on a random bordering tile.",Elder ,Neutral,Epic,1
+Beasts of Terror,Unit,4,3,1,"When attacking a non-Dragon unit, deal 2 damage to all other enemies with the same unit type.",Dragon ,Neutral,Epic,1
+Bigthrust Tigers,Unit,2,1,0,"On play, gain speed equal to the amount of enemy units in front.",Feline ,Neutral,Rare,1
+Bladestorm,Spell,5,,,Deal 1 damage to all enemy units and structures., ,Neutral,Common,1
+Blessed with Brawn,Spell,6,,,Give 8 strength to a target friendly unit or structure with 4 or less strength., ,Winter Pact,Common,1
+Blood Ministers,Unit,6,3,0,"On play, convert all bordering enemy units with 3 or less strength to fight for you.",Raven ,Tribes of Shadowfen,Epic,1
+Bluesail Raiders,Unit,5,3,2,,Pirate ,Neutral,Common,1
+Booming Professors,Unit,6,5,0,"After surviving damage, deal up to 3 of its remaining strength as damage to the first enemy in front.",Rodent  Elder,Ironclad Union,Epic,1
+Boomstick Officers,Unit,6,5,1,"On play, deal 3 damage to a random enemy behind.",Rodent ,Neutral,Rare,1
+Boosting Elixir,Spell,4,,,Give 3 strength to a target friendly unit and a random friendly unit bordering it., ,Ironclad Union,Rare,1
+Broken Earth Drakes,Unit,7,3,1,"When this dies not bordering any base, deal 3 damage to all non-Dragon units.",Dragon ,Winter Pact,Rare,1
+Broken Truce,Spell,4,,,Destroy a target unit or structure with 8 or less strength. Spread spare damage randomly among all surrounding units or structures. Deal 3 damage to your base., ,Swarm of the East,Rare,1
+Brood Sages,Unit,2,2,0,"On play, for each surrounding poisoned unit spawn a 1 strength Toad on 2 tiles bordering it.",Toad ,Tribes of Shadowfen,Epic,1
+Broodmother Qordia,Unit,6,5,1,"On play, spawn 3 Nests on random surrounding tiles which will hatch 3 strength Dragons.",Dragon  Hero,Tribes of Shadowfen,Legendary,1
+Brothers in Arms,Unit,3,3,0,"On play, spawn a 1 strength Knight on the tile behind.",Knight ,Neutral,Common,1
+Bucks of Wasteland,Unit,6,6,0,"After surviving damage, randomly give strength to 2 other friendly units equal to the damage received.",Satyr  Elder,Swarm of the East,Epic,1
+Cabin Girls,Unit,4,5,0,,Pirate ,Neutral,Common,1
+Call for Aid,Spell,7,,,Spawn 3 strength units on all tiles bordering a target friendly unit., ,Neutral,Rare,1
+Calming Spirits,Unit,7,10,0,,Frostling ,Winter Pact,Common,1
+Chaotic Pupil,Unit,5,1,2,"On death, deal 3 damage to a random bordering enemy.",Rodent ,Ironclad Union,Common,1
+Chillbeards,Unit,9,4,2,"When played with an enemy on the tile in front, gain 4 strength.",Dwarf ,Winter Pact,Common,1
+Chilled Stonedames,Unit,5,4,1,"After surviving damage, destroy all enemy units in front.",Frostling  Elder,Winter Pact,Epic,1
+Clerics with Cords,Unit,4,3,0,"On play, convert a random bordering enemy unit with 2 or less strength to fight for you.",Raven ,Tribes of Shadowfen,Rare,1
+Collector Mirz,Unit,3,1,1,"On play, create a 0 cost unit with 5 strength and add it to your deck.",Hero ,Neutral,Legendary,1
+Confinement,Spell,3,,,Reduce the strength of a target enemy unit to 5., ,Neutral,Common,1
+Conflicted Drakes,Unit,3,2,0,"On play, deal 1 damage to all non-Dragon units in front.",Dragon ,Neutral,Rare,1
+Copperskin Ranger,Unit,2,1,0,"On play, poison 1 random enemy unit.",Toad ,Tribes of Shadowfen,Common,1
+Counselor Ahmi,Unit,3,2,1,"When played with no bordering enemies, return this card back to your hand.",Satyr  Hero,Swarm of the East,Legendary,1
+Crazy Bombers,Unit,8,6,1,"On play, deal 7 damage spread randomly among all surrounding enemies.",Rodent ,Neutral,Epic,1
+Crimson Sentry,Unit,3,1,2,"On death, deal 1 damage to all bordering units and poison them.",Toad ,Tribes of Shadowfen,Common,1
+Curse of Strings,Spell,7,,,Convert a target enemy unit with 8 or less strength to fight for you., ,Tribes of Shadowfen,Rare,1
+Dangerous Suitors,Unit,6,4,1,"On play, gain 2 strength for every other Dragon on the board.",Dragon ,Neutral,Rare,1
+Dark Harvest,Spell,5,,,Deal 2 damage to all enemies surrounding a friendly unit., ,Swarm of the East,Rare,1
+Dawnsparks,Unit,6,8,0,"When attacking, gain 4 mana.",Frostling ,Winter Pact,Epic,1
+Debug Loggers,Unit,5,4,1,"After attacking, gives 2 strength to itself and a random surrounding friendly unit.",Construct ,Ironclad Union,Epic,1
+Delegators,Unit,6,7,1,,Construct ,Ironclad Union,Common,1
+Destructobots,Unit,2,2,1,"On play, deal 1 damage to another friendly unit.",Construct ,Ironclad Union,Rare,1
+Devastators,Unit,4,3,1,"Before attacking a structure or base, deal 3 additional damage to it.",Undead ,Swarm of the East,Epic,1
+Doctor Mia,Unit,2,2,0,"On play, trigger the ability of all bordering friendly structures.",Rodent  Hero,Ironclad Union,Legendary,1
+Doppelbocks,Unit,2,1,0,"On play, spawn a 1 strength Satyr on the tile in front.",Satyr ,Swarm of the East,Common,1
+Draconic Roamers,Unit,4,2,2,"When attacking a unit, spawn a 1 strength Dragon on a random tile bordering that unit.",Dragon ,Swarm of the East,Rare,1
+Dreadfauns,Unit,5,3,0,"On play, spawn 2 Satyrs with 2 strength on random bordering tiles.",Satyr ,Swarm of the East,Common,1
+Dreadful Keepers,Unit,3,3,0,"On death, randomly spawn a 3 strength Dragon on a tile bordering a friendly Dragon.",Dragon ,Swarm of the East,Epic,1
+Dubious Hags,Unit,2,2,1,"On death, spawn a 1 strength Raven on a random bordering tile to fight for the enemy.",Raven ,Tribes of Shadowfen,Common,1
+Earthfathers,Unit,7,5,1,"After surviving damage, gain 3 strength.",Dwarf  Elder,Winter Pact,Rare,1
+Edrik the Fierce,Unit,4,3,0,"On play, spawn 3 strength Knights in front of all surrounding enemy units.",Knight  Hero,Neutral,Legendary,1
+Eloth the Ignited,Unit,5,5,0,"On play, fly to the first enemy unit in front. Push this enemy away and deal 3 damage to it. If the pushed enemy died, move forward.",Dragon  Hero,Ironclad Union,Legendary,1
+Embers of Chaos,Unit,4,1,1,"When this dies bordering the enemy base, randomly spawn a 6 strength Dragon at the enemy base.",Dragon ,Ironclad Union,Epic,1
+Emerald Towers,Structure,4,4,,"At the start of your turn, give 2 strength to all friendly units in front.", ,Neutral,Rare,1
+Excited Mouser,Unit,5,5,0,"On play, confuse the same number of surrounding enemies, as there are surrounding friendly units.",Feline ,Neutral,Rare,1
+Execution,Spell,4,,,Deal 4 damage to a target enemy unit or structure., ,Neutral,Common,1
+Faithless Prophets,Unit,3,5,1,"After surviving damage, convert itself to fight for the enemy.",Raven  Elder,Tribes of Shadowfen,Rare,1
+Faun Companions,Unit,3,1,1,"On play, give 3 strength to a random bordering friendly Satyr.",Satyr ,Swarm of the East,Common,1
+Felflares,Unit,3,2,0,"On play, deal 2 damage to a random surrounding enemy.",Frostling ,Neutral,Common,1
+Feral Shamans,Unit,5,1,1,"Before attacking a stronger unit, drain 3 strength from it.",Raven ,Tribes of Shadowfen,Rare,1
+Finite Loopers,Unit,4,3,1,"On death, spawn a 1 strength Construct on a random bordering tile.",Construct ,Ironclad Union,Common,1
+First Mutineer,Unit,3,1,2,"On play, discard a random non-Pirate card from your hand.",Pirate ,Neutral,Common,1
+Flaming Stream,Spell,5,,,Push back all enemy units in a target unit's column and deal 3 damage to them., ,Ironclad Union,Common,1
+Fleshmenders,Unit,7,4,2,"On play, give 6 strength to a random bordering friendly unit or structure.",Dwarf ,Winter Pact,Epic,1
+Flooding the Gates,Spell,4,,,Deal 5 damage to all units bordering your base., ,Neutral,Rare,1
+Fluffy Badboxers,Unit,5,6,1,"After attacking, confuse all weaker enemy units.",Feline ,Neutral,Rare,1
+Forgotten Souls,Unit,3,1,1,"On play, command a random bordering friendly unit forward.",Undead ,Swarm of the East,Rare,1
+Fort of Ebonrock,Structure,3,4,,, ,Neutral,Common,1
+Fortification Tonic,Spell,2,,,Give 2 strength to all friendly units surrounding a friendly structure., ,Ironclad Union,Rare,1
+Freebooters,Unit,3,2,0,"On play, draw 1 card.",Pirate ,Neutral,Common,1
+Frosthexers,Unit,2,1,0,"On play, freeze all bordering enemy units.",Frostling ,Winter Pact,Common,1
+Frozen Core,Structure,5,4,,"At the start of your turn, gain 2 mana.", ,Winter Pact,Rare,1
+Gift of the Wise,Spell,8,,,Gain 10 mana., ,Winter Pact,Epic,1
+Gifted Recruits,Unit,2,1,1,,Knight ,Neutral,Common,1
+Goldgrubbers,Unit,4,4,1,"On play, replace a random non-Pirate card from your hand.",Pirate ,Neutral,Epic,1
+Green Prototypes,Unit,1,1,1,"On death, give 1 strength to a random surrounding enemy unit.",Construct ,Neutral,Rare,1
+Greengale Serpents,Unit,3,1,2,"Before attacking a unit, gives 1 strength to itself and a random friendly Dragon.",Dragon ,Ironclad Union,Rare,1
+Greenwood Ancients,Unit,4,3,1,"After surviving damage, gain 1 strength for each stronger enemy unit on the board.",Elder ,Neutral,Epic,1
+Grim Couriers,Unit,5,3,3,,Undead ,Swarm of the East,Common,1
+Hair-Raising Cats,Unit,3,3,0,"On play, randomly force a surrounding confused enemy unit to attack a bordering enemy.",Feline ,Neutral,Common,1
+Hairy Chestnuts,Unit,6,5,0,"After surviving damage, drain up to 1 of the damage received from the enemy base.",Toad  Elder,Tribes of Shadowfen,Epic,1
+Harpies of the Hunt,Unit,3,4,0,,Raven ,Tribes of Shadowfen,Common,1
+Harvesters of Souls,Unit,5,5,1,"When attacking a weaker unit, add a 5 strength copy of that card to your deck.",Undead ,Neutral,Epic,1
+Head Start,Spell,2,,,Spawn a 3 strength Satyr on a random tile in your furthest row., ,Swarm of the East,Rare,1
+Hearthguards,Unit,6,3,2,"When played bordering a friendly structure or base, gain 3 strength.",Dwarf ,Neutral,Epic,1
+Heliotroopers,Unit,3,3,1,"On play, poison itself.",Toad ,Tribes of Shadowfen,Common,1
+Herald's Hymn,Spell,7,,,Give 1 strength to a target friendly unit. Command all friendly units in its row forward., ,Swarm of the East,Common,1
+Heroic Soldiers,Unit,5,5,1,,Knight ,Neutral,Common,1
+High Priestess Klaxi,Unit,8,5,0,"On play, destroy all units with the lowest strength and spawn 5 strength Ravens there.",Raven  Hero,Tribes of Shadowfen,Legendary,1
+Hunter's Vengeance,Spell,2,,,Randomly deal 2 damage to one unit of each unit type., ,Neutral,Epic,1
+Iced Droplings,Unit,6,7,1,,Frostling ,Winter Pact,Common,1
+Icicle Burst,Spell,1,,,"Freeze a  target enemy unit. If it is already frozen, deal 8 damage to it instead.", ,Winter Pact,Common,1
+Joust Champions,Unit,8,3,2,"Before attacking a unit or structure, deal 3 additional damage to it.",Knight ,Neutral,Rare,1
+Kindred's Grace,Spell,6,,,Give 6 strength to a target friendly unit and 2 strength to all others with the same unit type., ,Neutral,Epic,1
+Lady Rime,Unit,6,5,1,"On play, spend your remaining mana and gain 2 strength for each.",Frostling  Hero,Winter Pact,Legendary,1
+Lasting Remains,Unit,7,8,1,"After attacking, move forward.",Undead ,Swarm of the East,Rare,1
+"Laurus, King in Exile",Unit,5,5,1,"Before attacking an enemy unit, force all enemy units bordering it with 4 or less strength to attack it.",Feline  Hero,Neutral,Legendary,1
+Lawless Herd,Unit,2,2,0,,Satyr ,Neutral,Common,1
+Lich Summoners,Unit,4,3,1,"After attacking, spawn a 3 strength Undead on the tile behind.",Undead ,Neutral,Epic,1
+Limelimbs,Unit,3,1,2,,Toad ,Tribes of Shadowfen,Common,1
+Linked Golems,Unit,3,2,1,"When played bordering a friendly Construct, both gain 1 strength.",Construct ,Ironclad Union,Epic,1
+Lucky Charmers,Unit,6,3,1,"On play, gain 3 strength for each Pirate in your hand.",Pirate ,Neutral,Rare,1
+Ludic Matriarchs,Unit,6,5,0,"When played bordering exactly 1 friendly Dragon, spawn 1 strength Dragons on all tiles bordering either.",Dragon ,Neutral,Epic,1
+Marked as Prey,Spell,4,,,"Deal 5 damage to a target poisoned unit. If that kills it, spawn a 5 strength Raven there.", ,Tribes of Shadowfen,Rare,1
+Mech Workshop,Structure,4,3,,"At the start of your turn, spawn a 2 strength Construct on the tile in front.", ,Ironclad Union,Common,1
+Mechanical Workers,Unit,6,4,1,"On play, on the tile behind build a 3 strength Workshop which spawns 2 strength Constructs.",Rodent ,Ironclad Union,Rare,1
+Melodious Sisters,Unit,4,4,1,"Before attacking a confused unit, deal up to 4 of its strength as damage to all enemies bordering it.",Feline ,Neutral,Epic,1
+Midwinter Chaos,Spell,4,,,Targets enemy units with 4 or less strength. Destroy all that are frozen and freeze the others., ,Winter Pact,Rare,1
+Mindless Horde,Unit,3,4,0,,Satyr ,Swarm of the East,Common,1
+Mischiefs,Unit,4,2,1,"On play, deal 1 damage to the enemy base.",Undead ,Swarm of the East,Common,1
+Moment's Peace,Spell,5,,,Give 4 strength to a target friendly unit or structure. Freeze all surrounding enemy units., ,Winter Pact,Rare,1
+Moonlit Aerie,Structure,3,3,,"At the start of your turn, give 1 strength to all friendly Satyrs.", ,Swarm of the East,Common,1
+Mystwives,Unit,4,3,1,"When played bordering a stronger friendly unit, gain 4 strength.",Dwarf ,Winter Pact,Epic,1
+Needle Blast,Spell,6,,,Deal 2 damage to 2 random enemies., ,Neutral,Rare,1
+Northsea Dog,Unit,2,1,0,"When played as the last card in your hand, gain 5 strength.",Pirate ,Neutral,Rare,1
+Obliterators,Unit,6,4,2,,Undead ,Swarm of the East,Common,1
+Obsidian Butchers,Unit,5,2,2,"On play, drain the strength from all 1 strength units.",Toad ,Tribes of Shadowfen,Rare,1
+Olf the Hammer,Unit,9,6,2,"When played bordering your base, give it 3 strength.",Dwarf  Hero,Winter Pact,Legendary,1
+Operators,Unit,8,10,1,,Construct ,Ironclad Union,Common,1
+Overchargers,Unit,4,2,1,"On play, deal 1 damage to the first enemy in front.",Rodent ,Ironclad Union,Common,1
+Ozone Purifiers,Unit,2,1,0,"On play, push a random bordering enemy unit away.",Rodent ,Ironclad Union,Common,1
+Pan Heralds,Unit,4,3,0,"On play, give 1 strength to all surrounding friendly units.",Satyr ,Swarm of the East,Common,1
+Personal Servers,Unit,3,1,1,"On play, give 2 strength to another random friendly unit.",Construct ,Neutral,Common,1
+Petrified Fossils,Unit,5,4,1,"After surviving damage, command all friendly units with equal or less strength to move forward.",Undead  Elder,Swarm of the East,Rare,1
+Pillars of Doom,Structure,5,4,,"At the start of your turn, deal 2 damage to the enemy base.", ,Swarm of the East,Epic,1
+Potion of Growth,Spell,3,,,"Give 2 strength to a target friendly unit, then vitalize it.", ,Neutral,Common,1
+Powder Tower,Structure,6,3,,"At the start of your turn, this explodes and deals 2 damage to all enemies.", ,Neutral,Rare,1
+Prime Oracle Bragda,Unit,6,5,1,"After surviving damage, increase the strength of all weaker friendly units to be equal to this.",Elder  Hero,Neutral,Legendary,1
+Project PH03-NIX,Unit,6,5,1,"When this dies not bordering any base, randomly respawn at your base with 5 strength.",Construct  Hero,Ironclad Union,Legendary,1
+Queen of Herds,Unit,7,6,0,"On play, randomly play up to 1 Common or Rare Satyr from your deck on a tile in its row.",Undead  Hero,Swarm of the East,Legendary,1
+Rain of Frogs,Spell,3,,,Spawn a 1 strength Toad on 4 random tiles., ,Tribes of Shadowfen,Epic,1
+Rapid Mousers,Unit,4,1,3,,Feline ,Neutral,Common,1
+Razor-Sharp Lynxes,Unit,4,2,1,"If played bordering an enemy gain 1 strength, else gain 1 speed.",Feline ,Neutral,Common,1
+Restless Goats,Unit,2,1,2,"On death, deal 2 damage to your base.",Satyr ,Swarm of the East,Epic,1
+Rimelings,Unit,5,2,1,"On play, gain 3 mana.",Frostling ,Winter Pact,Common,1
+Rockworkers,Unit,5,4,0,"On play, build a 4 strength Fort on a random bordering tile.",Dwarf ,Winter Pact,Common,1
+Rogue Sheep,Unit,6,2,0,"On death, deal 1 damage to all enemy units and structures. Add 0-1 damage for up to 1 Pirate in hand.",Pirate  Hero,Neutral,Legendary,1
+Salty Outcasts,Unit,7,5,2,,Toad ,Neutral,Common,1
+Scrapped Planners,Unit,4,4,1,"After surviving damage, set strength to 3.",Construct  Elder,Ironclad Union,Rare,1
+Seasick Bouncers,Unit,6,8,0,,Pirate ,Neutral,Common,1
+Shady Ghoul,Unit,3,1,2,"On death, spawn a 1 strength Satyr on a random bordering tile.",Undead ,Swarm of the East,Rare,1
+Sharpfist Exiles,Unit,7,2,1,"On play, gain 2 strength for every enemy unit on the board.",Toad ,Neutral,Rare,1
+Siege Assembly,Structure,5,3,,"At the start of your turn, deal 3 damage to the first enemy in front.", ,Ironclad Union,Rare,1
+Siegebreakers,Unit,4,4,1,"On play, deal 4 damage to all surrounding enemy structures.",Satyr ,Neutral,Rare,1
+Siren of the Seas,Unit,9,6,3,"Before attacking a unit, reduce its strength to 3.",Hero ,Neutral,Legendary,1
+Sleetstompers,Unit,8,6,2,,Dwarf ,Winter Pact,Common,1
+Slyboots,Unit,4,4,1,"On play, confuse up to 1 bordering enemy unit.",Feline ,Neutral,Rare,1
+Snake Eyes,Unit,5,6,0,"When played with a full hand, discard all cards and draw 3 new cards.",Pirate ,Neutral,Epic,1
+Snowmasons,Unit,4,2,1,"On death, give 4 strength spread randomly among all surrounding friendly units.",Dwarf ,Neutral,Rare,1
+Soulcrushers,Unit,5,5,1,"Before attacking a weaker unit, destroy it instantly.",Raven ,Tribes of Shadowfen,Epic,1
+Sound Drivers,Unit,3,3,0,"On play, push forward the friendly unit on the tile in front.",Rodent ,Ironclad Union,Rare,1
+Spare Dragonling,Unit,2,1,1,"On death, give 3 strength to a random friendly Dragon.",Dragon ,Neutral,Rare,1
+Spellbinder Zhevana,Unit,4,4,0,"On play, destroy all frozen enemies in front with 4 or less strength. Gain 4 mana for each unit destroyed.",Dragon  Hero,Winter Pact,Legendary,1
+Stoic Protectors,Unit,4,3,0,"On play, disable the ability of 1 bordering enemy unit.",Ancient ,Neutral,Epic,1
+Summon Militia,Spell,1,,,Randomly spawn a Knight with 1 strength., ,Neutral,Common,1
+Sunbeam Serpents,Unit,5,2,1,"On play, gain the strength of the strongest friendly Dragon.",Dragon ,Tribes of Shadowfen,Epic,1
+Swarmcallers,Unit,4,2,1,"On play, gain 2 strength for each bordering friendly Satyr.",Satyr ,Swarm of the East,Rare,1
+Sweetcap Kittens,Unit,2,1,0,"On play, confuse all enemy units in front.",Feline ,Neutral,Common,1
+Tegor the Vengeful,Unit,6,4,2,"On death, do a random effect: give 6 strength, deal 5 damage or spawn a 4 strength unit.",Dragon  Hero,Neutral,Legendary,1
+Temple Guardians,Unit,8,6,0,"When played on the tile in front of a friendly Temple structure or base, spawn 4 strength Knights on all of its bordering tiles.",Knight ,Neutral,Epic,1
+Temple of Focus,Structure,3,3,,"At the start of your turn, deconfuse and give 1 additional move to all friendly units in front. Deal 1 damage to itself when the boosted unit reaches the enemy base.", ,Swarm of the East,Epic,1
+Temple of the Heart,Structure,3,2,,"At the start of your turn, remove 1 strength from the stronger base and give it to the weaker one.", ,Neutral,Common,1
+Terrific Slayers,Unit,4,2,2,"Before attacking a Dragon, deal 5 additional damage.",Knight ,Neutral,Rare,1
+The Hearth,Structure,3,3,,"At the start of your turn, give 2 strength to another friendly unit or structure.", ,Winter Pact,Common,1
+Tode the Elevated,Unit,4,3,1,"After attacking, jump in front of a random enemy unit or structure and gain 3 strength.",Toad  Hero,Tribes of Shadowfen,Legendary,1
+Toxic Sacrifice,Spell,2,,,Destroy a target friendly unit. Deal 2 damage to all surrounding units and poison them., ,Tribes of Shadowfen,Common,1
+Trekking Aldermen,Unit,3,3,0,"After surviving damage, deal 2 damage spread randomly among enemy units on the board.",Elder ,Neutral,Rare,1
+Trueshot Post,Structure,5,4,,"At the start of your turn, randomly deal 4 damage to the most forward enemy unit or structure.", ,Neutral,Epic,1
+Twilight Prowlers,Unit,6,7,0,"When played bordering your base, gain 3 speed.",Feline ,Neutral,Common,1
+Ubass the Hunter,Unit,5,5,0,"On play, deal 1 damage to a random enemy for each surrounding unit type.",Hero ,Neutral,Legendary,1
+Underground Spring,Structure,4,4,,"At the start of your turn, remove 1 strength from itself and give it to your base.", ,Winter Pact,Rare,1
+Unhealthy Hysteria,Spell,3,,,Force a target enemy unit with 4 or less strength to attack a random bordering enemy., ,Neutral,Rare,1
+Unstable Build,Structure,2,5,,"At the start of your turn, deals 2 damage to itself.", ,Ironclad Union,Common,1
+Untamed Cultists,Unit,7,10,0,,Raven ,Tribes of Shadowfen,Common,1
+Upgrade Point,Structure,3,4,,"At the start of your turn, give 2 strength to all surrounding friendly Constructs.", ,Ironclad Union,Epic,1
+Venomfall Spire,Structure,4,3,,"At the start of your turn, poison 1 random enemy unit.", ,Tribes of Shadowfen,Rare,1
+Veterans of War,Unit,7,8,1,,Knight ,Neutral,Common,1
+Victors of the Melee,Unit,6,3,1,"When attacking, deal 2 damage to all surrounding enemy units and structures.",Knight ,Neutral,Rare,1
+Vindicators,Unit,6,3,3,"When attacking, deal 1 damage to the enemy base.",Undead ,Swarm of the East,Epic,1
+Visions of the Grove,Unit,8,8,0,"On play, for every 4 remaining mana deal 1 damage to all enemies in front.",Frostling ,Winter Pact,Rare,1
+Voidsurgers,Unit,5,6,0,"When played with at least 3 surrounding enemies, deal 2 damage to them.",Frostling ,Neutral,Rare,1
+Wandering Wyrms,Unit,3,3,0,"When played bordering a friendly Dragon, deal 3 damage to the strongest enemy unit.",Dragon ,Tribes of Shadowfen,Rare,1
+Warfront Runners,Unit,4,2,2,,Knight ,Neutral,Common,1
+Westwind Sailors,Unit,3,2,1,,Pirate ,Neutral,Common,1
+Wetland Deceivers,Unit,3,3,0,"On play, destroy all surrounding units with 1 strength.",Raven ,Neutral,Rare,1
+Wild Saberpaws,Unit,2,1,0,"If played with no surrounding enemies gain 2 speed, else with no bordering enemies gain 1 speed.",Feline ,Neutral,Epic,1
+Windmakers,Unit,4,2,2,"Before attacking a stronger unit, push it away and deal 3 damage to it.",Rodent ,Ironclad Union,Rare,1
+Wisp Cloud,Unit,3,1,1,"Before attacking a frozen enemy, deal 4 damage to all surrounding frozen enemies.",Frostling ,Winter Pact,Rare,1
+Witches of the Wild,Unit,4,2,1,"On play, drain 1 strength from all bordering units.",Raven ,Tribes of Shadowfen,Common,1
+Wolfcloaks,Unit,6,6,2,"On play, lose 1 strength for every other friendly unit on the board.",Dwarf ,Winter Pact,Rare,1
+"Xuri, Lord of Life",Unit,5,3,0,"On play, fly to the first empty tile in front. Give 3 strength to all friendly units passed and vitalize them.",Dragon  Hero,Swarm of the East,Legendary,1
+Yowling Weavers,Unit,3,4,1,"When attacking, randomly destroy a friendly non-Dragon unit.",Dragon ,Winter Pact,Epic,1

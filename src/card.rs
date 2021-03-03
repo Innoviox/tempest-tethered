@@ -1,6 +1,10 @@
 use crate::effect::Effect;
 
-pub enum Type {
+pub enum CardType {
+    Spell, Unit, Structure
+}
+
+pub enum UnitType {
     Dragon, Elder, Hero,
     Satyr, Undead,
     Frostling, Dwarf,
@@ -18,14 +22,16 @@ pub enum Rarity {
 }
 
 pub struct Card {
+    name: String,
+    ctype: CardType,
+
     cost: usize,
     strength: usize,
     speed: usize,
 
     effect: Effect,
 
-    name: String,
-    class: Type,
+    class: UnitType,
     kingdom: Kingdom,
     rarity: Rarity,
     level: usize
